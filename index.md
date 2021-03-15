@@ -15,7 +15,7 @@
             footer a{ color:var(--bs-gray); text-decoration: none; }
             footer a:hover{ color:var(--bs-light); }
         </style>
-    </head>
+    
     <body>
 
         <header class="container">
@@ -30,8 +30,7 @@
 
 
                     
-                    <p>His biographer Earl Strohe writes, “Ben is the greatest painter New Mexico ever had and that includes Madame O’Keefe, who’s vastly overrated. She did a few good paintings.” TAOS DAILY HORSE FLY</p>
-                 <code>&lt;p&gt;</code> y <code>&lt;/p&gt;</code>.</p>
+                    <p>His biographer Earl Strohe writes, “Ben is the greatest painter New Mexico ever had and that includes Madame O’Keefe, who’s vastly overrated. She did a few good paintings.” TAOS DAILY HORSE FLY
 
                 </div>
             </div>
